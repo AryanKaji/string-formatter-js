@@ -1,0 +1,25 @@
+{
+  "name": "string-formatter-js",
+  "version": "1.0.0",
+  "description": "Tiny string utility library for JavaScript and TypeScript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "string",
+    "formatter",
+    "typescript",
+    "utility"
+  ],
+  "author": "ARK",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
